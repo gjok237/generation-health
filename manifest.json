@@ -1,0 +1,25 @@
+{
+  "name": "Generation Health",
+  "short_name": "Gen Health",
+  "description": "Suivi biberons, couches et sommeil de bébé",
+  "start_url": "/generation-health/",
+  "scope": "/generation-health/",
+  "display": "standalone",
+  "background_color": "#FDF8F2",
+  "theme_color": "#C8714A",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/generation-health/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/generation-health/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
